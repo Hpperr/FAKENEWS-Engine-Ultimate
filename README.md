@@ -1,4 +1,4 @@
-# FAKE NEWS ENGINE v3.0
+# FAKE NEWS ENGINE v4.0
 
 ## Reputation Attack Testing Framework
 
